@@ -5,10 +5,8 @@ import urllib.request
 import urllib.parse
 import os
 import logging
-from dotenv import load_dotenv
 import datahelper
 
-load_dotenv()
 
 HOST = os.getenv("HOST")
 PORT = os.getenv("PORT")

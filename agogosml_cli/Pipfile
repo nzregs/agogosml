@@ -25,6 +25,7 @@ jsonnet = "*"
 validators = "*"
 git-url-parse = "*"
 cookiecutter = "*"
+agogosml = "*"
 
 [requires]
 python_version = "3.7"
